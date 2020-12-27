@@ -55,7 +55,7 @@ const dirsBase = function(){
         for (let i of extension)
             out.push(i);
         return out;
-    }
+    };
     /*
      * @private
      * @var {array}
@@ -94,7 +94,7 @@ const dirsBase = function(){
     const extension = [
         'extension'
     ];
-}
+};
 
 
 exports.dirs = new dirsBase();

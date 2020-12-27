@@ -10,7 +10,7 @@ nanoTest.add(
     },
     'j==',
     [
-       '.db',
+        '.db',
     ]
 );
 nanoTest.add(
@@ -20,7 +20,7 @@ nanoTest.add(
     },
     'j==',
     [
-       'cdn',
+        'cdn',
     ]
 );
 
@@ -31,7 +31,7 @@ nanoTest.add(
     },
     'j==',
     [
-       'www'
+        'www'
     ]
 );
 
@@ -42,7 +42,7 @@ nanoTest.add(
     },
     'j==',
     [
-       'extension'
+        'extension'
     ]
 );
 
@@ -53,10 +53,10 @@ nanoTest.add(
     },
     'j==',
     [
-       'css',
-       'html',
-       'js',
-       'svg'
+        'css',
+        'html',
+        'js',
+        'svg'
     ]
 );
 
@@ -68,14 +68,14 @@ nanoTest.add(
     },
     'j==',
     [
-       '.db',
-       'cdn',
-       'www',
-       'www/css',
-       'www/html',
-       'www/js',
-       'www/svg',
-       'extension'
+        '.db',
+        'cdn',
+        'www',
+        'www/css',
+        'www/html',
+        'www/js',
+        'www/svg',
+        'extension'
     ]
 );
 
